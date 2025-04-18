@@ -34,8 +34,6 @@ Java & Spring Boot kullanılarak geliştirilmiştir.
 
 ## 📁 Proje Yapısı
 
-## 📁 Proje Yapısı
-
 cv-analiz-uygulamasi/
 │
 ├── src/
