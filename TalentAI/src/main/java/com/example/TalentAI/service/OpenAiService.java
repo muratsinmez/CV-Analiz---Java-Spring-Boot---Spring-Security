@@ -8,8 +8,8 @@ import org.json.JSONObject;
 @Service
 public class OpenAiService {
 
-    private static final String OPENROUTER_API_URL = "https://openrouter.ai/api/v1/chat/completions";
-    private static final String OPENROUTER_API_KEY = "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";
+    private static final String OPENROUTER_API_URL = "***";
+    private static final String OPENROUTER_API_KEY = "***";
 
     public String analyzeCvText(String rawText) {
         RestTemplate restTemplate = new RestTemplate();
